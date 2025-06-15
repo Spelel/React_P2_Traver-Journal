@@ -25,10 +25,10 @@ h1 {
 
 section {
   border-bottom: 0.5px solid rgb(200, 190, 190);
-  padding-bottom: 3rem;
+  padding-bottom: 2.7rem;
   display: flex;
   align-items: center;
-  margin: auto;
+  margin: 0 auto 2rem;
   max-width: 85%;
 }
 
