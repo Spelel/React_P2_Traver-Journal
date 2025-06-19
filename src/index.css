@@ -17,6 +17,7 @@ h1 {
 
 .itemImg {
   max-height: 20rem;
+  max-width: 20rem;
   border-radius: 15px;
   margin-right: 2rem;
 }
